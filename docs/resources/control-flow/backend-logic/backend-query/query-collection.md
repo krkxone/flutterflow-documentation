@@ -32,7 +32,7 @@ backend query:
 4. Choose the Firestore **Collection** to use for performing the query.
 5. Under **Query Type**, select either ***List of Documents*** (returns a list of document
    references) or ***Single Document*** (returns only one document reference).
-6. If you have selected the **List of Documents**in the previous step, you can set a **Limit** to
+6. If you have selected the **List of Documents** in the previous step, you can set a **Limit** to
    the maximum number of documents returned.
 7. If you want to apply any **filter** for retrieving the documents, click **+ Filter** button.
    Select a **Field Name** that you want to use as the filter, choose a **Relation** (
